@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# $1--> all projects file
+# $2--> where to clone
+
+cd $2
+
+cat $1 | while read line
+do
+    git clone project_remote_branch
+done
