@@ -1,4 +1,3 @@
-repo_name
 jakefeasel/sqlfiddle2
 sinofool/wechat-java-sdk
 Contrast-Security-OSS/contrast-rO0
